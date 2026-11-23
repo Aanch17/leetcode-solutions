@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aanch17/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Aanch17/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Hash Table
 |  |
@@ -22,4 +23,20 @@
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Aanch17/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
+## Math
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aanch17/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aanch17/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aanch17/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aanch17/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
