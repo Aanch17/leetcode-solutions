@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Aanch17/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
+| [3360-stone-removal-game](https://github.com/Aanch17/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Aanch17/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Design
 |  |
@@ -53,4 +54,8 @@
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Aanch17/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/Aanch17/leetcode-solutions/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
